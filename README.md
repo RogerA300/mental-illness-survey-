@@ -1,4 +1,4 @@
-# mental-illness-survey-
+# mental-illness-survey
 visualization for mental illness survey 
 
 
